@@ -12,6 +12,10 @@ summarize exploration of interesting probkems and simpler variants that we can u
 **what do we know about penulum motion:**
 - make strong statements about forces, torques, p/k energy
   - need to remind ourselves abour polar coordinates and angular motion
+  - $\vec{f}_g = -mg\hat{y}$
+  - $ \omega = 2\pi f =2\pi/T$
+ 
 - what do we remember abour a pendulum
   - simple harmonic motion](_when_)
     - guess: between $\pm 90^{\circ}$?
+  - we expect that simple harmonic motion breaks down for large 
