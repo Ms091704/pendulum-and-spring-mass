@@ -4,3 +4,4 @@ this repository is a collection of notes on mechanical motion of a rigid or soft
 ## 📁 file structure
 - `notes` : a collection of markdown notes
 - `figures` : figures used in the notes 
+##🔗 quick links
