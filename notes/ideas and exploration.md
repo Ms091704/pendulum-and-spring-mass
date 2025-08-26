@@ -7,3 +7,11 @@ summarize exploration of interesting probkems and simpler variants that we can u
 - can we understand the dynamics of the drivien rigid pendulum?
   - is there a closed-form solution?
 - how do things change when the pendulum motin affects the drivers motion?
+
+### driven rigid pendulum
+**what do we know about penulum motion:**
+- make strong statements about forces, torques, p/k energy
+  - need to remind ourselves abour polar coordinates and angular motion
+- what do we remember abour a pendulum
+  - simple harmonic motion](_when_)
+    - guess: between $\pm 90^{\circ}$?
