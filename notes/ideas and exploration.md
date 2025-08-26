@@ -18,4 +18,6 @@ summarize exploration of interesting probkems and simpler variants that we can u
 - what do we remember abour a pendulum
   - simple harmonic motion](_when_)
     - guess: between $\pm 90^{\circ}$?
-  - we expect that simple harmonic motion breaks down for large 
+  - we expect that simple harmonic motion breaks down for large
+- driven pendulum
+  - [video of rigid pendulum]()
