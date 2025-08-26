@@ -1,4 +1,4 @@
-#exploring of interesting probkens involving driven oscillators/pendulums 
+# exploring of interesting problens involving driven oscillators/pendulums 
 summarize exploration of interesting probkems and simpler variants that we can use to orient our understanding
 
 ## some intersting questions to explore
